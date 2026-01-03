@@ -1,7 +1,7 @@
 {
   "name": "context-weaver",
   "version": "0.0.1",
-  "description": "",
+  "description": "AI Context Optimizer - Intelligently select relevant files for AI requests",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
