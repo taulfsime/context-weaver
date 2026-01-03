@@ -1,0 +1,23 @@
+{
+  "name": "context-weaver",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taulfsime/context-weaver.git"
+  },
+  "keywords": [],
+  "author": "taulfsime",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/taulfsime/context-weaver/issues"
+  },
+  "homepage": "https://github.com/taulfsime/context-weaver#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "typescript": "^5.9.3"
+  }
+}
